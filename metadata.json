@@ -1,0 +1,6 @@
+{
+  "name": "BlogSpace - Editorial Stories & Thought Leadership",
+  "description": "A premium editorial blogging platform inspired by modern publications. Discover thoughtful essays, craft perspectives, and publish insightful long-form writing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
